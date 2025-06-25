@@ -4,8 +4,6 @@ A cutting-edge fitness application that combines AI coaching, real-time form cor
 
 ## Architecture Overview 📊
 
-![Gym Master Architecture](GYM_MASTER_FLOWCHART.png)
-
 Our application follows a modern, microservices architecture:
 
 ```
