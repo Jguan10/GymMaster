@@ -8,4 +8,4 @@ A cutting-edge fitness application that combines AI coaching, real-time form cor
 - Start up the [Flask API](https://huggingface.co/spaces/Jguan10/GymMasterAPI)
 - Then start doing push-ups!
 
-
+AI Coach could not be deployed, but feel free to test out the push-up model!
