@@ -2,7 +2,7 @@
 
 ![workout](https://github.com/Jguan10/GymMaster/blob/main/gifs/workout.gif)
 
-A cutting-edge fitness application that combines AI coaching, real-time form correction, and social competition to transform your workout experience.
+A cutting-edge workout tracker that combines AI coaching and real-time form correction to transform your workout experience.
 
 # What does it do?
 
